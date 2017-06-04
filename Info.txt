@@ -1,0 +1,4 @@
+install Nuget:
+entity framework
+Cors
+webapi.cors
